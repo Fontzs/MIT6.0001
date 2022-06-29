@@ -1,0 +1,1 @@
+My note on python and Computer Science.
